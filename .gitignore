@@ -1,0 +1,27 @@
+
+# /
+/*.exe
+/*.tmp
+/.cproject
+/.project
+/ctags.tmp
+/*.out
+/tags
+/unity_log.txt
+
+# /build/
+/build/*.txt
+/build/*.exe
+/build/*.obj
+/build/*.testpass
+/build/*.d79
+/build/*.r43
+/build/*.testfail
+/build/*.c
+
+# /examples/build/
+/examples/build/*.obj
+/examples/build/*.exe
+/examples/build/*.testfail
+/examples/build/*.testpass
+/examples/build/*.c
