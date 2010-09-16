@@ -1,4 +1,4 @@
-
+/src/*.o
 /build/*.o
 
 # the following were automatically imported from SVN via
