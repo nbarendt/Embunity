@@ -1,4 +1,10 @@
 
+/build/*.o
+
+# the following were automatically imported from SVN via
+#  git svn show-ignore
+#
+
 # /
 /*.exe
 /*.tmp
